@@ -1,0 +1,19 @@
+   3798 American Express.txt
+   3811 Bank of America.txt
+   3862 BarclayCard US.txt
+   3797 Capital One.txt
+   3838 Chase.txt
+   3864 Citibank.txt
+   3821 Discover.txt
+   3931 MasterCard.txt
+   3743 PNC.txt
+   3857 U.S. Bank.txt
+   3861 USAA.txt
+   3870 Visa.txt
+   3960 Wells Fargo.txt
+     13 cuentat.txt
+     13 cuentat0.txt
+     13 cuentat1.txt
+     13 cuentat2.txt
+      1 cuentat3.txt
+  50066 total
