@@ -44,5 +44,5 @@ Una vez finalizado el proceso, VS code permitirá editar el código fuente desde
 * Si esta realizando la solución de un punto particular, resulta más apropiado que entre a la carpeta de dicho punto y ejecute el comando `python3 grader`.  Este evaluará únicamente el punto actual.
 
 
-
+Edwin U Gómez
 
